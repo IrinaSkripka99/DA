@@ -1,4 +1,5 @@
-# Дипломная работа 
+# Дипломная работа
+папка 4 курс
 Полезные ссылки : 
 1) https://habr.com/ru/post/280500/
 2) https://ppc.world/articles/kak-zagruzit-statistiku-iz-reklamnyh-sistem-v-google-bigquery/
